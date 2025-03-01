@@ -1,0 +1,55 @@
+1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+Timely delivery ensures meeting business goals, maintaining client trust, and avoiding cost overruns. To meet deadlines, project managers should set clear milestones, manage scope, use Agile methods, and track progress.
+
+
+
+2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Effective cost control prevents budget overruns, ensuring profitability and resource efficiency. Strategies include accurate cost estimation, tracking expenses, risk management, and using budget-tracking tools.
+
+
+
+3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile is iterative, flexible, and allows frequent feedback, but may lack structure. Waterfall is linear, well-defined, but rigid. Agile suits dynamic projects, while Waterfall fits projects with clear requirements.
+
+4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is iterative, flexible, and allows frequent feedback, but may lack structure. Waterfall is linear, well-defined, but rigid. Agile suits dynamic projects, while Waterfall fits projects with clear requirements.
+
+
+5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Quality assurance methods: code reviews, automated testing, CI/CD, and user feedback. High standards prevent bugs, improve reliability, and enhance user satisfaction.
+
+6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining scope prevents scope creep and misalignment. Work Breakdown Structure (WBS) breaks projects into smaller tasks for better planning and tracking.
+
+7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Detailed schedules improve planning and resource allocation. Gantt charts visualize tasks, dependencies, and timelines for better project tracking.
+
+
+8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core issues addressed: inefficiency, manual errors, lack of automation, or poor user experience. Significance: Improves productivity, reduces costs, and enhances decision-making.
+
+
+9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem ensures a focused solution, minimizes wasted effort, and aligns development with user needs.
+
+
+10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Software solution description: A tool that streamlines workflow management by automating task assignments and progress tracking and improving efficiency and collaboration.
+
+
+11. What are the main features or functionalities that make your software stand out?
+Automation: Reduces repetitive tasks, saving time and effort.
+Data Analytics: Provides insights and reports for better decision-making.
+User-Friendly Interface: Intuitive design for easy navigation and usability.
+Security: Implements encryption and authentication to protect data.
+Scalability: Adapts to growing business needs and increasing workloads.
+Integration: Connects with third-party tools for seamless workflow management.
+Customizability: Allows users to tailor features to specific needs.
+
+
+12. What data is available regarding the market size and growth potential for your software?
+Market data: Research competitors, user demand, and industry reports to estimate market size and growth potential.
+
+
+13. How can understanding market trends inform your software’s positioning and development?
+Market trends guide feature development, pricing, and positioning by identifying customer needs and industry shifts
